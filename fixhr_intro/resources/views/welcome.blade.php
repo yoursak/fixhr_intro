@@ -241,7 +241,7 @@
                     </div>
 
                     <div class="col-lg-5 offset-lg-1">
-                        <img src="{{asset('assets/images/features-2.png')}}" alt="" class="img-fluid d-block mx-auto ms-lg-auto" />
+                        <img src="{{asset('assets/images/screenshort/cretive-1.png')}}" alt="" class="img-fluid d-block mx-auto ms-lg-auto" />
                     </div>
                 </div>
             </div>
@@ -661,7 +661,7 @@
                                 Available For Your <br />
                                 Smartphone.
                             </h1>
-                            <p class="text-muted mx-auto mb-5 w-75">The wise man therefore always holds in these matters to this of selection he rejects pleasures to other greater that id pains to avoid worse.</p>
+                            <p class="text-muted mx-auto mb-5 w-75">You can download the FixHR application for your smartphone from google play store essily.</p>
                             <a href="javascript:void(0);" class="me-1">
                                 <img src="{{asset('assets/images/i-store.png')}}" alt="" class="shadow" height="52" />
                             </a>
@@ -682,7 +682,7 @@
                     <div class="col-md-8 col-lg-6 text-center">
                         <h6 class="subtitle">Our <span class="fw-bold">Contact Us</span></h6>
                         <h2 class="title">Get in Touch</h2>
-                        <p class="text-muted">Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque rem aperiam.</p>
+                        <p class="text-muted">We are available 24<i class="fa fa-xmark"></i>7 for your support, you can ask any kind of queries which is facing you.</p>
                     </div>
                 </div>
 
@@ -871,7 +871,7 @@
             <div class="container">
                 <div class="row justify-content-between py-2">
                     <div class="col-md-6">
-                        <p class="text-white opacity-75 mb-0 fs-14"><script>document.write(new Date().getFullYear())</script> © FixHR - <a href="https://coderthemes.com/" class="text-white">Coderthemes.com</a></p>
+                        <p class="text-white opacity-75 mb-0 fs-14"><script>document.write(new Date().getFullYear())</script> © FixHR - <a href="https://fixingdots.com/" class="text-white" target="blank">FixingDots.com</a></p>
                     </div>
                     <div class="col-md-6 text-md-end">
                         <a href="javascript:void(0);" class="text-white opacity-75 fs-14">Terms Conditions & Policy</a>
